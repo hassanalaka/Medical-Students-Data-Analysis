@@ -37,7 +37,7 @@ The average values for age, BMI, heart rate, blood pressure and cholesterol for 
 
 Average Values                 |   Visualization  Chart
 :---------------------------  | :----------------------
-![](pivot_average_values.png) | ![](visual_average_values.png)
+![](pivot_average_values2.png) | ![](visual_average_values2.png)
 
 
 #### What is the average height and Weight for both Genders (in 2 decimal places)?
@@ -62,7 +62,7 @@ The number of students who smoke and those who don’t smoke was found out using
 
 Number of Students                |  Visualization Chart 
 :-------------------------------  | :---------------------------
-![](pivot_smoking.png)            | ![](visual_smoking.png)
+![](pivot_smoking.png)            | ![](visual_smoking2.png)
 
 #### What is the number of students who have diabetes and those who don’t?
 
@@ -70,7 +70,7 @@ This was analyzed using the pivot table and visualized using a bar chart. The re
 
 Number of Students            | Visualization Chart 
 :---------------------------- | :------------------------
-![](pivot_diabetes.png)       | ![](visual_smoking.png) 
+![](pivot_diabetes.png)       | ![](visual_diabetes2.png) 
 
 
 ## Conclusion 
